@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a1b2c3d4",
+    "name": "Pankaj Jalote",
+    "email": "jalote@iiitd.ac.in",
+    "phone_number": "+91-9012345678"
+  },
+  {
+    "id": "e5f6g7h8",
+    "name": "Kajol Dwivedi",
+    "email": "kajol23041@iiitd.ac.in",
+    "phone_number": "+91-9988123456"
+  },
+  {
+    "id": "i9j0k1l2",
+    "name": "Shaurya Bajaj",
+    "email": "shaurya173@gmail.com",
+    "phone_number": "+917982414811"
+  },
+  {
+    "id": "i9j0k1l2",
+    "name": "Akshit Gupta",
+    "email": "akshit22058@iiitd.ac.in",
+    "phone_number": "+917999212345"
+  }
+]

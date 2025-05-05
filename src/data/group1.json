@@ -1,0 +1,32 @@
+[
+  {
+    "id": "m5gr84i9",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phone_number": "+91-9876543210"
+  },
+  {
+    "id": "xwq28dks",
+    "name": "Jasper Lee",
+    "email": "jasper.lee@example.com",
+    "phone_number": "+91-9123456780"
+  },
+  {
+    "id": "jd84ms6a",
+    "name": "Ava Brown",
+    "email": "ava.brown@example.com",
+    "phone_number": "+91-8899001122"
+  },
+  {
+    "id": "sm38fjq2",
+    "name": "Ethan White",
+    "email": "ethan.white@example.com",
+    "phone_number": "+91-9988776655"
+  },
+  {
+    "id": "f84djw8s",
+    "name": "Zara Khan",
+    "email": "zara.khan@example.com",
+    "phone_number": "+91-9090909090"
+  }
+]

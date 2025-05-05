@@ -1,0 +1,40 @@
+{
+  "Friends": [
+    { "id": "m5gr84i9", "name": "John Doe", "email": "john.doe@example.com", "phone": "+91-9876543210" },
+    { "id": "xwq28dks", "name": "Jasper Lee", "email": "jasper.lee@example.com", "phone": "+91-9123456780" },
+    { "id": "jd84ms6a", "name": "Ava Brown", "email": "ava.brown@example.com", "phone": "+91-8899001122" },
+    { "id": "sm38fjq2", "name": "Ethan White", "email": "ethan.white@example.com", "phone": "+91-9988776655" },
+    { "id": "f84djw8s", "name": "Zara Khan", "email": "zara.khan@example.com", "phone": "+91-9090909090" }
+  ],
+  "Work": [
+    { "id": "3u1reuv4", "name": "Abe Lincoln", "email": "abe.lincoln@example.com", "phone": "+91-8008008008" },
+    { "id": "derv1ws0", "name": "Monserrat Rivera", "email": "monserrat.r@example.com", "phone": "+91-8123456789" },
+    { "id": "qp20ekwl", "name": "Aditya Verma", "email": "aditya.verma@example.com", "phone": "+91-9900112233" },
+    { "id": "xt92eowk", "name": "Rita Patel", "email": "rita.patel@example.com", "phone": "+91-8888888888" },
+    { "id": "lz83wkem", "name": "Victor Hugo", "email": "victor.hugo@example.com", "phone": "+91-9223377777" },
+    { "id": "eui29dk3", "name": "Sara Wong", "email": "sara.wong@example.com", "phone": "+91-9555123456" },
+    { "id": "t92dksla", "name": "James Singh", "email": "james.singh@example.com", "phone": "+91-9001234567" }
+  ],
+  "Family": [
+    { "id": "5kma53ae", "name": "Silas Green", "email": "silas.green@example.com", "phone": "+91-7894561230" },
+    { "id": "ald8s7ed", "name": "Sophia Kim", "email": "sophia.kim@example.com", "phone": "+91-8007006005" },
+    { "id": "lkd93lsk", "name": "Noah Kim", "email": "noah.kim@example.com", "phone": "+91-9871234567" },
+    { "id": "kdi73lsd", "name": "Emma Green", "email": "emma.green@example.com", "phone": "+91-9988998899" }
+  ],
+  "Gym": [
+    { "id": "gym01", "name": "Arjun Mehra", "email": "arjun.mehra@example.com", "phone": "+91-9111122233" },
+    { "id": "gym02", "name": "Lara Thomas", "email": "lara.thomas@example.com", "phone": "+91-9222244455" },
+    { "id": "gym03", "name": "Nina Kapoor", "email": "nina.kapoor@example.com", "phone": "+91-9333366677" }
+  ],
+  "Clients": [
+    { "id": "cli01", "name": "Olivia Martin", "email": "olivia.martin@company.com", "phone": "+91-9444455566" },
+    { "id": "cli02", "name": "Ryan Smith", "email": "ryan.smith@company.com", "phone": "+91-9555566677" },
+    { "id": "cli03", "name": "Priya Das", "email": "priya.das@company.com", "phone": "+91-9666677788" },
+    { "id": "cli04", "name": "George Lane", "email": "george.lane@company.com", "phone": "+91-9777788899" }
+  ],
+  "Colleagues": [
+    { "id": "col01", "name": "Ankit Sharma", "email": "ankit.sharma@work.com", "phone": "+91-9888899990" },
+    { "id": "col02", "name": "Meera Nair", "email": "meera.nair@work.com", "phone": "+91-9009009009" },
+    { "id": "col03", "name": "David Roy", "email": "david.roy@work.com", "phone": "+91-9011223344" }
+  ]
+}
