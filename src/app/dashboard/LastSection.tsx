@@ -21,6 +21,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { toast } from "@/components/hooks/use-toast";
+import { useSession } from "next-auth/react";
 
 type Group = { name: string; color: string };
 type GroupMember = { id: string; name: string; email: string; phone: string };
@@ -55,6 +56,7 @@ export default function LastSection({
 }) {
   const groupList = groups as Group[];
   const contacts = rawData as Groups;
+  const { data: session } = useSession();
   const [selectedGroup, setSelectedGroup] = React.useState<string | null>(null);
   const [selectedChannel, setSelectedChannel] = React.useState<string | null>(
     null
@@ -114,6 +116,7 @@ export default function LastSection({
       channel: selectedChannel.toLowerCase(),
       message,
       recipients,
+      user_email: session?.user?.email,
     };
 
     setIsSending(true);
