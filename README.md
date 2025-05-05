@@ -1,8 +1,6 @@
-# ![Omnicast Logo](https://lucide.dev/icons/satellite-dish.svg) Omnicast – Frontend
+# Omnicast – Frontend
 
 This is the **Next.js frontend** for **Omnicast**, an omnichannel messaging platform built for IN3.
-
----
 
 ## 🔧 Tech Stack
 
@@ -12,9 +10,7 @@ This is the **Next.js frontend** for **Omnicast**, an omnichannel messaging plat
 * **NextAuth.js** – Authentication
 * **Vercel** – Deployment platform
 
----
-
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repo
 
@@ -45,11 +41,8 @@ npm run dev
 
 Visit: [http://localhost:3000](http://localhost:3000)
 
----
-
 ## Contributors
 
 * **Nishchay Yadav**
 * **Shaurya Bajaj**
 * **Akshit Gupta**
-
