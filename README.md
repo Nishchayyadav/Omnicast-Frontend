@@ -2,7 +2,7 @@
 
 This is the **Next.js frontend** for **Omnicast**, an omnichannel messaging platform built for IN3.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 * **Next.js** – React framework with SSR/SSG
 * **TypeScript** – Type-safe JavaScript
