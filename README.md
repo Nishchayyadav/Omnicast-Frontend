@@ -43,8 +43,10 @@ npm run dev
 
 Visit: [http://localhost:3000](http://localhost:3000)
 
+
 ## Contributors
 
-* **Nishchay Yadav**
-* **Shaurya Bajaj**
-* **Akshit Gupta**
+- **[Akshit Gupta](https://github.com/akshitgupta75)**
+- **[Nishchay Yadav](https://github.com/nishchayyadav)**
+- **[Shaurya Bajaj](https://github.com/shauryabajaj1)**
+
