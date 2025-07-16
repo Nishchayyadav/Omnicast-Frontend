@@ -1,7 +1,7 @@
 # Omnicast – Frontend 
 
 This is the **Next.js frontend** for **Omnicast**, an omnichannel messaging platform built for IN3.<br><br>
-**[Omnicast-Backend](https://github.com/SDOS-2025/omnichannel-messaging-platform-backend)** – built using **Django** and backed by a **PostgreSQL** database.
+**[Omnicast-Backend](https://github.com/shauryabajaj1/omnicast-backend)** – built using **Django** and backed by a **PostgreSQL** database.
 
 
 ## Tech Stack
